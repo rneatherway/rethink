@@ -76,7 +76,7 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="PUtils">
-      <HintPath>..\..\PUtils\bin\Release\PUtils.dll</HintPath>
+      <HintPath>PUtils.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
