@@ -1,0 +1,5 @@
+NUGET
+  remote: https://www.nuget.org/api/v2
+  specs:
+    FSharp.Compiler.Service (3.0)
+    FSharp.Core (4.0.0.1)
